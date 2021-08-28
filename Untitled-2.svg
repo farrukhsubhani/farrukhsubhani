@@ -5,13 +5,12 @@
 <style type="text/css">
 	.st0{fill:none;stroke:#21145F;stroke-width:16;stroke-miterlimit:10;}
 	.st1{fill:#B4B3DF;stroke:#655DC6;stroke-width:10;stroke-miterlimit:10;}
-	.st2{fill:#B4B3DF;stroke:#655DC6;stroke-width:11;stroke-miterlimit:10;}
 	.st3{fill:#FFFFFF;stroke:#655DC6;stroke-width:3;stroke-miterlimit:10;}
 	.st4{fill:#FFFFFF;stroke:#4435CC;stroke-width:3;stroke-miterlimit:10;}
 </style>
 <path class="st0" d="M40.54,235.36c151.75-68.71,268.6-37.99,268.6-37.99"/>
 <path class="st1" d="M94.93,80.83c21.1-25.47,98.01-15,97.29,2.93c-1.16,28.7-77.01,22.87-76.65,22.91"/>
-<path class="st2" d="M174.94,55.24c16.1-0.6,51.34,102.85,51.34,102.85c16.01-36.24,40.75-98.29,61.23-98.29
+<path class="st1" d="M174.94,55.24c16.1-0.6,51.34,102.85,51.34,102.85c16.01-36.24,40.75-98.29,61.23-98.29
 	c31.21,0-35,148-63.89,148C194.66,207.8,145.78,56.33,174.94,55.24z"/>
 <path class="st1" d="M114.61,173.27c0,0,39.9,12.99,72.81,6.2c-15.21,27.26-89.74,26.34-106.48,20.49"/>
 <path class="st1" d="M121.42,120.47c11.37,1.01,55.63-6.12,69.85,14.31c-14.21,28.97-52.79,21.33-71.85,18.25"/>
